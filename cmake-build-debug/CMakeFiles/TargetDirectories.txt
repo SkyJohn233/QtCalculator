@@ -1,0 +1,4 @@
+/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir
+/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1_autogen.dir
