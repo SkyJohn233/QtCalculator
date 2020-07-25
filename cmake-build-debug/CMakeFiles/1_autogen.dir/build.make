@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug
 include CMakeFiles/1_autogen.dir/progress.make
 
 CMakeFiles/1_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target 1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target 1"
 	/home/skyjohn/hddlinux/software/CLion-2019.3.2/clion-2019.3.2/bin/cmake/linux/bin/cmake -E cmake_autogen /home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1_autogen.dir/AutogenInfo.cmake Debug
 
 1_autogen: CMakeFiles/1_autogen

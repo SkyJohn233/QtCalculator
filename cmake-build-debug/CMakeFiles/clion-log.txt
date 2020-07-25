@@ -1,4 +1,4 @@
-/home/skyjohn/hddlinux/software/CLion-2019.3.2/clion-2019.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake -G "CodeBlocks - Unix Makefiles" /home/skyjohn/hddlinux/zikao-practice/cpp/1
+/home/skyjohn/hddlinux/software/CLion-2019.3.2/clion-2019.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake -G "CodeBlocks - Unix Makefiles" /home/skyjohn/hddlinux/zikao-practice/cpp/1
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug

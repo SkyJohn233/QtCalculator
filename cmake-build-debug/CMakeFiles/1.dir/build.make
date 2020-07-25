@@ -70,31 +70,31 @@ CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/1_autogen/mocs_compilation.cpp -o CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.s
 
-CMakeFiles/1.dir/calculator.cpp.o: CMakeFiles/1.dir/flags.make
-CMakeFiles/1.dir/calculator.cpp.o: ../calculator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/1.dir/calculator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/calculator.cpp.o -c /home/skyjohn/hddlinux/zikao-practice/cpp/1/calculator.cpp
+CMakeFiles/1.dir/calc/calculator.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/calc/calculator.cpp.o: ../calc/calculator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/1.dir/calc/calculator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/calc/calculator.cpp.o -c /home/skyjohn/hddlinux/zikao-practice/cpp/1/calc/calculator.cpp
 
-CMakeFiles/1.dir/calculator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/calculator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/skyjohn/hddlinux/zikao-practice/cpp/1/calculator.cpp > CMakeFiles/1.dir/calculator.cpp.i
+CMakeFiles/1.dir/calc/calculator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/calc/calculator.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/skyjohn/hddlinux/zikao-practice/cpp/1/calc/calculator.cpp > CMakeFiles/1.dir/calc/calculator.cpp.i
 
-CMakeFiles/1.dir/calculator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/calculator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/calculator.cpp -o CMakeFiles/1.dir/calculator.cpp.s
+CMakeFiles/1.dir/calc/calculator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/calc/calculator.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/calc/calculator.cpp -o CMakeFiles/1.dir/calc/calculator.cpp.s
 
-CMakeFiles/1.dir/mainwindow.cpp.o: CMakeFiles/1.dir/flags.make
-CMakeFiles/1.dir/mainwindow.cpp.o: ../mainwindow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/1.dir/mainwindow.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/mainwindow.cpp.o -c /home/skyjohn/hddlinux/zikao-practice/cpp/1/mainwindow.cpp
+CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o: ../ui/mainwindow/mainwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o -c /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mainwindow.cpp
 
-CMakeFiles/1.dir/mainwindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/mainwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/skyjohn/hddlinux/zikao-practice/cpp/1/mainwindow.cpp > CMakeFiles/1.dir/mainwindow.cpp.i
+CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mainwindow.cpp > CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.i
 
-CMakeFiles/1.dir/mainwindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/mainwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/mainwindow.cpp -o CMakeFiles/1.dir/mainwindow.cpp.s
+CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mainwindow.cpp -o CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.s
 
 CMakeFiles/1.dir/main.cpp.o: CMakeFiles/1.dir/flags.make
 CMakeFiles/1.dir/main.cpp.o: ../main.cpp
@@ -109,27 +109,57 @@ CMakeFiles/1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/main.cpp -o CMakeFiles/1.dir/main.cpp.s
 
+CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o: ../ui/mainwindow/myPowTest/myPowWindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o -c /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/myPowTest/myPowWindow.cpp
+
+CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/myPowTest/myPowWindow.cpp > CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.i
+
+CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/myPowTest/myPowWindow.cpp -o CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.s
+
+CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o: ../ui/mainwindow/mySqrtTest/mySqrtWindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o -c /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp
+
+CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp > CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.i
+
+CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp -o CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.s
+
 # Object files for target 1
 1_OBJECTS = \
 "CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.o" \
-"CMakeFiles/1.dir/calculator.cpp.o" \
-"CMakeFiles/1.dir/mainwindow.cpp.o" \
-"CMakeFiles/1.dir/main.cpp.o"
+"CMakeFiles/1.dir/calc/calculator.cpp.o" \
+"CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o" \
+"CMakeFiles/1.dir/main.cpp.o" \
+"CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o" \
+"CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o"
 
 # External object files for target 1
 1_EXTERNAL_OBJECTS =
 
 1 : CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.o
-1 : CMakeFiles/1.dir/calculator.cpp.o
-1 : CMakeFiles/1.dir/mainwindow.cpp.o
+1 : CMakeFiles/1.dir/calc/calculator.cpp.o
+1 : CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o
 1 : CMakeFiles/1.dir/main.cpp.o
+1 : CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o
+1 : CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o
 1 : CMakeFiles/1.dir/build.make
-1 : /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/libQt5Widgets.so.5.14.2
-1 : /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/libQt5Gamepad.so.5.14.2
-1 : /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/libQt5Gui.so.5.14.2
-1 : /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/libQt5Core.so.5.14.2
+1 : /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/libQt5Widgets.so.5.13.0
+1 : /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/libQt5Gamepad.so.5.13.0
+1 : /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/libQt5Gui.so.5.13.0
+1 : /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/libQt5Core.so.5.13.0
 1 : CMakeFiles/1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable 1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable 1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

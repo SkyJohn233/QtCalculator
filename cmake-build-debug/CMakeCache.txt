@@ -150,7 +150,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //No help, variable specified on the command line.
-CMAKE_PREFIX_PATH:UNINITIALIZED=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake
+CMAKE_PREFIX_PATH:UNINITIALIZED=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake
 
 //Value Computed by CMake
 CMAKE_PROJECT_DESCRIPTION:STATIC=
@@ -227,43 +227,22 @@ ProcessorCount_cmd_nproc:FILEPATH=/usr/bin/nproc
 ProcessorCount_cmd_sysctl:FILEPATH=/sbin/sysctl
 
 //The directory containing a CMake configuration file for Qt5Core.
-Qt5Core_DIR:PATH=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake/Qt5Core
+Qt5Core_DIR:PATH=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake/Qt5Core
 
 //The directory containing a CMake configuration file for Qt5Gamepad.
-Qt5Gamepad_DIR:PATH=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake/Qt5Gamepad
+Qt5Gamepad_DIR:PATH=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake/Qt5Gamepad
 
 //The directory containing a CMake configuration file for Qt5Gui.
-Qt5Gui_DIR:PATH=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake/Qt5Gui
+Qt5Gui_DIR:PATH=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake/Qt5Gui
 
 //The directory containing a CMake configuration file for Qt5Sql.
-Qt5Sql_DIR:PATH=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake/Qt5Sql
+Qt5Sql_DIR:PATH=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake/Qt5Sql
 
 //The directory containing a CMake configuration file for Qt5Widgets.
-Qt5Widgets_DIR:PATH=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake/Qt5Widgets
+Qt5Widgets_DIR:PATH=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake/Qt5Widgets
 
 //The directory containing a CMake configuration file for Qt5.
-Qt5_DIR:PATH=/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/lib/cmake/Qt5
-
-//The directory containing a CMake configuration file for Qt5core.
-Qt5core_DIR:PATH=Qt5core_DIR-NOTFOUND
-
-//The directory containing a CMake configuration file for QtGamepad.
-QtGamepad_DIR:PATH=QtGamepad_DIR-NOTFOUND
-
-//The directory containing a CMake configuration file for QtSql.
-QtSql_DIR:PATH=QtSql_DIR-NOTFOUND
-
-//The directory containing a CMake configuration file for Qt.
-Qt_DIR:PATH=Qt_DIR-NOTFOUND
-
-//The directory containing a CMake configuration file for Qtsql.
-Qtsql_DIR:PATH=Qtsql_DIR-NOTFOUND
-
-//The directory containing a CMake configuration file for REQUIRED.
-REQUIRED_DIR:PATH=REQUIRED_DIR-NOTFOUND
-
-//The directory containing a CMake configuration file for q.
-q_DIR:PATH=q_DIR-NOTFOUND
+Qt5_DIR:PATH=/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/lib/cmake/Qt5
 
 
 ########################

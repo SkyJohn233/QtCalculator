@@ -163,32 +163,32 @@ depend:
 	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.s
 .PHONY : 1_autogen/mocs_compilation.cpp.s
 
-calculator.o: calculator.cpp.o
+calc/calculator.o: calc/calculator.cpp.o
 
-.PHONY : calculator.o
+.PHONY : calc/calculator.o
 
 # target to build an object file
-calculator.cpp.o:
-	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/calculator.cpp.o
-.PHONY : calculator.cpp.o
+calc/calculator.cpp.o:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/calc/calculator.cpp.o
+.PHONY : calc/calculator.cpp.o
 
-calculator.i: calculator.cpp.i
+calc/calculator.i: calc/calculator.cpp.i
 
-.PHONY : calculator.i
+.PHONY : calc/calculator.i
 
 # target to preprocess a source file
-calculator.cpp.i:
-	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/calculator.cpp.i
-.PHONY : calculator.cpp.i
+calc/calculator.cpp.i:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/calc/calculator.cpp.i
+.PHONY : calc/calculator.cpp.i
 
-calculator.s: calculator.cpp.s
+calc/calculator.s: calc/calculator.cpp.s
 
-.PHONY : calculator.s
+.PHONY : calc/calculator.s
 
 # target to generate assembly for a file
-calculator.cpp.s:
-	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/calculator.cpp.s
-.PHONY : calculator.cpp.s
+calc/calculator.cpp.s:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/calc/calculator.cpp.s
+.PHONY : calc/calculator.cpp.s
 
 main.o: main.cpp.o
 
@@ -217,32 +217,86 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-mainwindow.o: mainwindow.cpp.o
+ui/mainwindow/mainwindow.o: ui/mainwindow/mainwindow.cpp.o
 
-.PHONY : mainwindow.o
+.PHONY : ui/mainwindow/mainwindow.o
 
 # target to build an object file
-mainwindow.cpp.o:
-	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/mainwindow.cpp.o
-.PHONY : mainwindow.cpp.o
+ui/mainwindow/mainwindow.cpp.o:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o
+.PHONY : ui/mainwindow/mainwindow.cpp.o
 
-mainwindow.i: mainwindow.cpp.i
+ui/mainwindow/mainwindow.i: ui/mainwindow/mainwindow.cpp.i
 
-.PHONY : mainwindow.i
+.PHONY : ui/mainwindow/mainwindow.i
 
 # target to preprocess a source file
-mainwindow.cpp.i:
-	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/mainwindow.cpp.i
-.PHONY : mainwindow.cpp.i
+ui/mainwindow/mainwindow.cpp.i:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.i
+.PHONY : ui/mainwindow/mainwindow.cpp.i
 
-mainwindow.s: mainwindow.cpp.s
+ui/mainwindow/mainwindow.s: ui/mainwindow/mainwindow.cpp.s
 
-.PHONY : mainwindow.s
+.PHONY : ui/mainwindow/mainwindow.s
 
 # target to generate assembly for a file
-mainwindow.cpp.s:
-	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/mainwindow.cpp.s
-.PHONY : mainwindow.cpp.s
+ui/mainwindow/mainwindow.cpp.s:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.s
+.PHONY : ui/mainwindow/mainwindow.cpp.s
+
+ui/mainwindow/myPowTest/myPowWindow.o: ui/mainwindow/myPowTest/myPowWindow.cpp.o
+
+.PHONY : ui/mainwindow/myPowTest/myPowWindow.o
+
+# target to build an object file
+ui/mainwindow/myPowTest/myPowWindow.cpp.o:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o
+.PHONY : ui/mainwindow/myPowTest/myPowWindow.cpp.o
+
+ui/mainwindow/myPowTest/myPowWindow.i: ui/mainwindow/myPowTest/myPowWindow.cpp.i
+
+.PHONY : ui/mainwindow/myPowTest/myPowWindow.i
+
+# target to preprocess a source file
+ui/mainwindow/myPowTest/myPowWindow.cpp.i:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.i
+.PHONY : ui/mainwindow/myPowTest/myPowWindow.cpp.i
+
+ui/mainwindow/myPowTest/myPowWindow.s: ui/mainwindow/myPowTest/myPowWindow.cpp.s
+
+.PHONY : ui/mainwindow/myPowTest/myPowWindow.s
+
+# target to generate assembly for a file
+ui/mainwindow/myPowTest/myPowWindow.cpp.s:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.s
+.PHONY : ui/mainwindow/myPowTest/myPowWindow.cpp.s
+
+ui/mainwindow/mySqrtTest/mySqrtWindow.o: ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o
+
+.PHONY : ui/mainwindow/mySqrtTest/mySqrtWindow.o
+
+# target to build an object file
+ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o
+.PHONY : ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o
+
+ui/mainwindow/mySqrtTest/mySqrtWindow.i: ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.i
+
+.PHONY : ui/mainwindow/mySqrtTest/mySqrtWindow.i
+
+# target to preprocess a source file
+ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.i:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.i
+.PHONY : ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.i
+
+ui/mainwindow/mySqrtTest/mySqrtWindow.s: ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.s
+
+.PHONY : ui/mainwindow/mySqrtTest/mySqrtWindow.s
+
+# target to generate assembly for a file
+ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.s:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.s
+.PHONY : ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.s
 
 # Help Target
 help:
@@ -257,15 +311,21 @@ help:
 	@echo "... 1_autogen/mocs_compilation.o"
 	@echo "... 1_autogen/mocs_compilation.i"
 	@echo "... 1_autogen/mocs_compilation.s"
-	@echo "... calculator.o"
-	@echo "... calculator.i"
-	@echo "... calculator.s"
+	@echo "... calc/calculator.o"
+	@echo "... calc/calculator.i"
+	@echo "... calc/calculator.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... mainwindow.o"
-	@echo "... mainwindow.i"
-	@echo "... mainwindow.s"
+	@echo "... ui/mainwindow/mainwindow.o"
+	@echo "... ui/mainwindow/mainwindow.i"
+	@echo "... ui/mainwindow/mainwindow.s"
+	@echo "... ui/mainwindow/myPowTest/myPowWindow.o"
+	@echo "... ui/mainwindow/myPowTest/myPowWindow.i"
+	@echo "... ui/mainwindow/myPowTest/myPowWindow.s"
+	@echo "... ui/mainwindow/mySqrtTest/mySqrtWindow.o"
+	@echo "... ui/mainwindow/mySqrtTest/mySqrtWindow.i"
+	@echo "... ui/mainwindow/mySqrtTest/mySqrtWindow.s"
 .PHONY : help
 
 

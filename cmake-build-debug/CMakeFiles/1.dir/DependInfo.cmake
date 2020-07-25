@@ -5,9 +5,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/1_autogen/mocs_compilation.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.o"
-  "/home/skyjohn/hddlinux/zikao-practice/cpp/1/calculator.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/calculator.cpp.o"
+  "/home/skyjohn/hddlinux/zikao-practice/cpp/1/calc/calculator.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/calc/calculator.cpp.o"
   "/home/skyjohn/hddlinux/zikao-practice/cpp/1/main.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/main.cpp.o"
-  "/home/skyjohn/hddlinux/zikao-practice/cpp/1/mainwindow.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/mainwindow.cpp.o"
+  "/home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mainwindow.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/ui/mainwindow/mainwindow.cpp.o"
+  "/home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/myPowTest/myPowWindow.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/ui/mainwindow/myPowTest/myPowWindow.cpp.o"
+  "/home/skyjohn/hddlinux/zikao-practice/cpp/1/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp" "/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/CMakeFiles/1.dir/ui/mainwindow/mySqrtTest/mySqrtWindow.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -22,12 +24,12 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "1_autogen/include"
-  "/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include"
-  "/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtWidgets"
-  "/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtGui"
-  "/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtCore"
-  "/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/./mkspecs/linux-g++"
-  "/home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtGamepad"
+  "/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include"
+  "/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtWidgets"
+  "/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtGui"
+  "/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtCore"
+  "/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/./mkspecs/linux-g++"
+  "/home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtGamepad"
   )
 
 # Targets to which this target links.

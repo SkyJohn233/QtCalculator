@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -fPIC -std=gnu++14
 
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GAMEPAD_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
 
-CXX_INCLUDES = -I/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/1_autogen/include -isystem /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include -isystem /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtWidgets -isystem /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtGui -isystem /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtCore -isystem /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/./mkspecs/linux-g++ -isystem /home/skyjohn/hddlinux/qt5.14.2/5.14.2/gcc_64/include/QtGamepad 
+CXX_INCLUDES = -I/home/skyjohn/hddlinux/zikao-practice/cpp/1/cmake-build-debug/1_autogen/include -isystem /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include -isystem /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtWidgets -isystem /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtGui -isystem /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtCore -isystem /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/./mkspecs/linux-g++ -isystem /home/skyjohn/hddlinux/qt5.13.0/5.13.0/gcc_64/include/QtGamepad 
 
