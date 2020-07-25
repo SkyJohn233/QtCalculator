@@ -2,15 +2,16 @@
 // Created by skyjohn on 2020/5/23.
 //
 
-#include "calculator.h"
-#include "mainwindow.h"
-#include <bits/stdc++.h>
+#include "calc/calculator.h"
+#include "ui/mainwindow/mainwindow.h"
+
 
 int main(int argc,char *argv[]){
     QApplication apply(argc,argv);
-    QMainWindow w;
-    worker wk1;
-    wk1.mysetup(&w);
-    w.show();
+    QMainWindow m;
+    QWidget w1,w2;
+    worker wk1(&m,&w1,&w2);
+    wk1.mysetup();
+    m.show();
     return apply.exec();
 }
